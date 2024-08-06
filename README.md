@@ -35,7 +35,7 @@ python scripts/rename_template.py your_fancy_extension_name
 - Using a python interpreter that has Isaac Lab installed, install the library
 
 ```
-cd ext/hi_robotics_isaac_lab
+cd exts/hi_robotics_isaac_lab
 python -m pip install -e .
 ```
 
